@@ -1120,9 +1120,9 @@ acorn-walk@^6.1.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^6.0.7, acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 acorn@^7.1.0:
   version "7.1.0"
@@ -1136,10 +1136,10 @@ add-dom-event-listener@^1.1.0:
   dependencies:
     object-assign "4.x"
 
-aelf-sdk@3.2.24:
-  version "3.2.24"
-  resolved "https://registry.yarnpkg.com/aelf-sdk/-/aelf-sdk-3.2.24.tgz#aed5683ab376e9676f00b4748149d25072d91e54"
-  integrity sha512-2M3UzsW6+WE6KwShWka+GB25RjyW+CDjpZb+bTVwHtkgvh1EruUhRmPdrIDJmqfEHBgI1dW6WmARN14kMT6z3Q==
+aelf-sdk@3.2.30:
+  version "3.2.30"
+  resolved "https://registry.yarnpkg.com/aelf-sdk/-/aelf-sdk-3.2.30.tgz#7e9a546f0dac9fc06cbd3ea7f9d8a12d0e63ae56"
+  integrity sha512-i6bfbs1ipcRLV3qjwYsACWzxnwvaDxok+zAQqcn9VnkVvoQ34JSfDBRLFSCH5/qR5Mxtsu9UcuUUhbeB+Sj6nw==
   dependencies:
     "@aelfqueen/protobufjs" "^6.8.9"
     "@babel/runtime" "^7.4.5"
